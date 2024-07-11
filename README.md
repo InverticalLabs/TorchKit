@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">
     <a href="https://torchkit.co" target="_blank">
-        <img src="https://torchkit.co/banner.png" alt="TorchKit Logo" style="border-radius: 10px">
+        <img src="https://torchkit.co/banner.png" alt="TorchKit Logo">
     </a>
 </p>
 
