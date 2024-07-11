@@ -5,9 +5,7 @@
     </a>
 </p>
 
-## About Laravel
-
-An open-source Laravel starter kit built using a progressive front-end stack. Visit the [official website](https://torchkit.co) for documentation and advice on getting started.
+TorchKit is an open-source Laravel starter kit built using a progressive front-end stack. Visit the [official website](https://torchkit.co) for documentation and advice on getting started.
 
 ## License
 
