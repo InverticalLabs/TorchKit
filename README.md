@@ -1,11 +1,11 @@
 <!-- Logo -->
 <p align="center">
     <a href="https://torchkit.co" target="_blank">
-        <img src="https://torchkit.co/banner.png" alt="TorchKit Logo">
+        <img src="https://torchkit.co/banner.png" alt="TorchKit Logo" style="border-radius: 10px">
     </a>
 </p>
 
-TorchKit is an open-source Laravel starter kit built using a progressive front-end stack. Visit the [official website](https://torchkit.co) for documentation and advice on getting started.
+TorchKit is an open-source project by Invertical Ltd. It consists of a Laravel starter kit built using a progressive front-end stack. Visit the [official website](https://torchkit.co) for documentation and advice on getting started.
 
 ## License
 
